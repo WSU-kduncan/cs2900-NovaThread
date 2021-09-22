@@ -15,11 +15,20 @@ PART 1
 2. Go to system. Here you can change the alocated ram as well as boot order for your hardware.
 3. In the Display settings you can enable 3D acceleration, this will allow usage of your GPU if you have one in your system.
 4. Now it is time to start the VM and see how it works.
-![image 1(https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Projects/Project1/img/img1.jpg)
+![image 1](https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Projects/Project1/img/img1.jpg)
+Get my latest tutorials
+Email
+user@email.com
+Related tutorials
+How to clone a single branch from remote git repository
+How to revert a Git repository to a previous commit
+How to clone all branches from a remote git repository
+How to delete directory/folder from a Git repository
+How to undo the git add before a commit
 
 -Making The VM Fullscreen Compatible
 1. Select the Devices on the top of the VM window and select "Insert Guest Additions CD image".
-![image 1(https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Projects/Project1/img/img2.jpg)
+![image 2](https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Projects/Project1/img/img2.jpg)
 
 2. After the installation restart the VM. You should now be able to use the VM in full screen.
 
@@ -34,4 +43,4 @@ PART 3
 1. With the VM closed open settings and go to networking, in the drop down menu select "bridged adapter"
 2. Select the name of your adapter on your host machine.
 3. Start the VM and open command prompt. Ping your host machine and you will get a reply.
-![image 1(https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Projects/Project1/img/img3.jpg)
+![image 3](https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Projects/Project1/img/img3.jpg)

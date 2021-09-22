@@ -18,18 +18,11 @@ PART 1
 4. Now it is time to start the VM and see how it works.
  - Insert img1
 ![image 1(immg/img1)
-Get my latest tutorials
-Email
-user@email.com
-Related tutorials
-How to clone a single branch from remote git repository
-How to revert a Git repository to a previous commit
-How to clone all branches from a remote git repository
-How to delete directory/folder from a Git repository
-How to undo the git add before a comm
+
 -Making The VM Fullscreen Compatible
 1. Select the Devices on the top of the VM window and select "Insert Guest Additions CD image".
 ![image 1(immg/img2)
+
 2. After the installation restart the VM. You should now be able to use the VM in full screen.
 
 PART 2

@@ -23,7 +23,7 @@
 1. run "sudo docker pull nginx" this will pull a small light weight web server docker.
 
 2.run "sudo docker image ls" to see what dockers you have installed.
-![image](https://github.com/WSU-kduncan/cs2900-NovaThread/edit/main/Project%202/Images/dockerimagels.jpg)
+![image](https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Project%202/Images/dockerimagels.jpg)
 
 # RUNNING A CONTAINER 
 (source - https://stackoverflow.com/questions/34782678/difference-between-running-and-starting-a-docker-container)
@@ -33,7 +33,7 @@
 2. running the docker in foreground mode "sudo docker run -p 80:80 ngnix"
 
 3. running the docker in background/detached mode "sudo docker run -d -p 80:80 ngnix"
-![image](https://github.com/WSU-kduncan/cs2900-NovaThread/edit/main/Project%202/Images/dockerterminal.jpg)
+![image](https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Project%202/Images/dockerterminal.jpg)
 
 # LOGS AND STATUS
 (source - https://www.cloudsavvyit.com/10953/how-to-monitor-docker-container-logs/)
@@ -46,7 +46,7 @@
 # STOPPING A CONTAINER
 
 1. "sudo docker stop my-container" (replace my container with container id) stops the container
-![image](https://github.com/WSU-kduncan/cs2900-NovaThread/edit/main/Project%202/Images/dockerstop.jpg)
+![image](https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Project%202/Images/dockerstop.jpg)
 
 2. "sudo docker pause my-container" (replace my container with container id) pauses the container in current state
 

@@ -11,18 +11,18 @@
 
 3. run "curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg" this will set up your gpg keys correctly.
 
-4.run "sudo apt-get update" to update everything again
+4. run "sudo apt-get update" to update everything again
 
-5.run "sudo apt-get install docker-ce docker-ce-cli containerd.io" to install the required docker engines and programs/files this downloads everything needed to run dockers succesfully.
+5. run "sudo apt-get install docker-ce docker-ce-cli containerd.io" to install the required docker engines and programs/files this downloads everything needed to run dockers succesfully.
 
-6.run "sudo docker run hello-world" to verify that the instalation was successful, this will also install the hello-world docker from docker hub.
+6. run "sudo docker run hello-world" to verify that the instalation was successful, this will also install the hello-world docker from docker hub.
 
 # PULLING A DOCKER 
 (source - https://linuxhit.com/install-docker-on-ubuntu-20-04-run-container/)
 
 1. run "sudo docker pull nginx" this will pull a small light weight web server docker.
 
-2.run "sudo docker image ls" to see what dockers you have installed.
+2. run "sudo docker image ls" to see what dockers you have installed.
 ![image](https://github.com/WSU-kduncan/cs2900-NovaThread/blob/main/Project%202/Images/dockerimagels.jpg)
 
 # RUNNING A CONTAINER 
